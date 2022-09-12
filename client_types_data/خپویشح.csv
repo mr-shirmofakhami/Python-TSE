@@ -1,3 +1,0 @@
-,date,individual_buy_count,corporate_buy_count,individual_sell_count,corporate_sell_count,individual_buy_vol,corporate_buy_vol,individual_sell_vol,corporate_sell_vol,individual_buy_value,corporate_buy_value,individual_sell_value,corporate_sell_value,individual_buy_mean_price,individual_sell_mean_price,corporate_buy_mean_price,corporate_sell_mean_price,individual_ownership_change
-0,2013-05-21,1,0,0,1,29460,0,0,29460,191490000,0,0,191490000,6500.0,,,6500.0,29460.0
-1,2010-01-20,0,1,0,1,0,10832,0,10832,0,89905600,0,89905600,,,8300.0,8300.0,0.0
