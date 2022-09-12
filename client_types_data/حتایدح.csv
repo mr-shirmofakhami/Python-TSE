@@ -1,0 +1,4 @@
+,date,individual_buy_count,corporate_buy_count,individual_sell_count,corporate_sell_count,individual_buy_vol,corporate_buy_vol,individual_sell_vol,corporate_sell_vol,individual_buy_value,corporate_buy_value,individual_sell_value,corporate_sell_value,individual_buy_mean_price,individual_sell_mean_price,corporate_buy_mean_price,corporate_sell_mean_price,individual_ownership_change
+0,2011-01-18,2,1,0,1,4000,364159,0,368159,14000000,1274556500,0,1288556500,3500.0,,3500.0,3500.0,4000.0
+1,2010-10-05,3,1,4,0,21100,89131,110231,0,95709600,404298216,500007816,0,4536.0,4536.0,4536.0,,-89131.0
+2,2010-10-03,4,0,3,0,69347,0,69347,0,291257400,0,291257400,0,4200.0,4200.0,,,0.0

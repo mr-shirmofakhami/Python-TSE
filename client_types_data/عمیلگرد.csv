@@ -1,0 +1,7 @@
+,date,individual_buy_count,corporate_buy_count,individual_sell_count,corporate_sell_count,individual_buy_vol,corporate_buy_vol,individual_sell_vol,corporate_sell_vol,individual_buy_value,corporate_buy_value,individual_sell_value,corporate_sell_value,individual_buy_mean_price,individual_sell_mean_price,corporate_buy_mean_price,corporate_sell_mean_price,individual_ownership_change
+0,2022-09-10,0,1,0,1,0,50,0,50,0,73727950,0,73727950,,,1474559.0,1474559.0,0.0
+1,2022-07-24,1,0,0,1,18,0,0,18,26021628,0,0,26021628,1445646.0,,,1445646.0,18.0
+2,2022-01-25,0,1,1,0,0,4,4,0,0,5669200,5669200,0,,1417300.0,1417300.0,,-4.0
+3,2022-01-24,0,1,1,0,0,10,10,0,0,14173000,14173000,0,,1417300.0,1417300.0,,-10.0
+4,2022-01-05,0,1,1,0,0,4,4,0,0,5669200,5669200,0,,1417300.0,1417300.0,,-4.0
+5,2022-01-02,3,1,0,1,18,705548,0,705566,25511400,999973180400,0,999998691800,1417300.0,,1417300.0,1417300.0,18.0
